@@ -1,0 +1,23 @@
+p { font-family: arial, helvetica, sans-serif; color: black; font-size: 12px; line-height: 14px; }
+.text { font-family: arial, helvetica, sans-serif; color: black; font-size: 12px; line-height: 14px; }
+.boldtext {
+	font-family: arial, helvetica, sans-serif;
+	color: black;
+	font-size: 12px;
+	line-height: 14px;
+	font-weight : bold;
+}
+.bluetext {
+	font-family: arial, helvetica, sans-serif;
+	color: Navy;
+	font-size: 12px;
+	line-height: 14px;
+	font-weight : bold;
+}
+.whitehead {
+	font-family: arial, helvetica, sans-serif;
+	color: White;
+	font-size: 12px;
+	line-height: 14px;
+	font-weight : bold;
+}
