@@ -36,7 +36,7 @@
       <p class="text style1"><br>
         <span class="style10"><span class="text"><strong><strong><span class="style5">BE A SPARE </span></strong></strong></span></span><strong><br>
         <br>
-      </strong><span class="style10"><span class="text">Do you want to be a spare for the NEW TORONTO VOLLEYBALL league? Send us an <a href="mailto:contact@torontovolleyball.com?subject=Make%20Me%20a%20Spare">email</a> with your contact information (phone number and email) and your availability and we will put you on our spares list.</span></span>      
+      </strong><span class="style10"><span class="text">Do you want to be a spare for the NEW TORONTO VOLLEYBALL league? Send us an <a href="mailto:contact@centraltorontovolleyball.com?subject=Make%20Me%20a%20Spare">email</a> with your contact information (phone number and email) and your availability and we will put you on our spares list.</span></span>      
     <p class="text style1">    
     <p class="text style1">    
     <p class="text style1">    
